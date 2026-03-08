@@ -1,4 +1,4 @@
-Welcome to the Splunk Log Analysis Project, where I explore the power of Splunk Enterprise for analyzing network and system logs. This project demonstrates how log data from multiple protocols—HTTP, SSH, SMTP, FTP, and DNS—can be ingested, analyzed, and visualized to provide actionable insights for network monitoring, security analysis, and troubleshooting.
+Welcome to the Multi-Log-Threat-Detection-with-Splunk Project, where I explore the power of Splunk Enterprise for analyzing network and system logs. This project demonstrates how log data from multiple protocols—HTTP, SSH, SMTP, FTP, and DNS—can be ingested, analyzed, and visualized to provide actionable insights for network monitoring, security analysis, and troubleshooting.
 
 A key focus of this project is detecting potential data exfiltration via DNS traffic, a common technique used by attackers to transfer sensitive data covertly from internal networks.
 
