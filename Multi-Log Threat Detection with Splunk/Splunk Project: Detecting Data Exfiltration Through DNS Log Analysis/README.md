@@ -26,6 +26,8 @@ After identifying the active hosts, the next step was to analyze which domains w
 
 ![Image](https://github.com/user-attachments/assets/8e407d1b-764b-494b-9a47-0d10f4e3f408)
 
+Analysis
+
 The results showed several domains being queried, such as:
 
 stackoverflow.com,mozilla.org,tamcorp.net
