@@ -2,6 +2,8 @@ Welcome to the Multi-Log-Threat-Detection-with-Splunk Project, where I explore t
 
 A key focus of this project is detecting potential data exfiltration via DNS traffic, a common technique used by attackers to transfer sensitive data covertly from internal networks.
 
+
+
 𝐏𝐫𝐨𝐭𝐨𝐜𝐨𝐥𝐬 𝐀𝐧𝐚𝐥𝐲𝐳𝐞𝐝
 
 HTTP (Hypertext Transfer Protocol): Analyze web traffic logs to monitor requests, detect errors, and understand user behavior patterns.
@@ -14,7 +16,10 @@ FTP (File Transfer Protocol): Assess file transfer patterns to detect unauthoriz
 
 DNS (Domain Name System): Inspect DNS query logs to detect abnormal traffic patterns and DNS-based exfiltration attempts, such as long or encoded queries to attacker-controlled domains.
 
+
+
 𝐊𝐞𝐲 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭𝐬
+
 Real-Time Monitoring and Visualization
 
 Instant Insights: Monitor network and system activity in real time to quickly detect abnormal behavior.
@@ -57,6 +62,8 @@ Maintain audit trails for forensic investigation and ensure adherence to securit
 
 Enable proactive monitoring and incident response to reduce potential damage from attacks.
 
+
+
 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐄𝐱𝐟𝐢𝐥𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐓𝐡𝐫𝐨𝐮𝐠𝐡 𝐃𝐍𝐒 𝐋𝐨𝐠 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
 
 A core component of this project is detecting DNS-based data exfiltration, where attackers encode data into DNS queries to bypass security monitoring.
@@ -77,6 +84,8 @@ Count the number of abnormal DNS requests to estimate potential exfiltration.
 
 Using these steps, I identified 315 suspicious DNS queries, many targeting domains such as tunnelcorp.net, consistent with potential DNS tunneling activity.
 
+
+
 𝐒𝐤𝐢𝐥𝐥𝐬 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝
 
 Splunk Proficiency: Data ingestion, SPL query writing, dashboards, and alert configuration.
@@ -87,11 +96,14 @@ Threat Detection & Troubleshooting: Hands-on experience in identifying abnormal 
 
 Data-Driven Decision Making: Use log insights to optimize system performance and security posture.
 
+
+
 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐔𝐬𝐞𝐝
 
 Splunk Enterprise: Central platform for collecting, indexing, and analyzing log data.
 
 Search Processing Language (SPL): Query and manipulate log data for investigation.
+
 
 
 𝐖𝐡𝐚𝐭 𝐓𝐡𝐢𝐬 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐃𝐞𝐦𝐨𝐧𝐬𝐭𝐫𝐚𝐭𝐞𝐬
